@@ -1,0 +1,12 @@
+D:\Lucas\source\repos\ClaimMCTeam\ClaimMCTeam\bin\Debug\ClaimMCTeam.exe.config
+D:\Lucas\source\repos\ClaimMCTeam\ClaimMCTeam\bin\Debug\ClaimMCTeam.exe
+D:\Lucas\source\repos\ClaimMCTeam\ClaimMCTeam\bin\Debug\ClaimMCTeam.pdb
+D:\Lucas\source\repos\ClaimMCTeam\ClaimMCTeam\obj\Debug\ClaimMCTeam.csprojAssemblyReference.cache
+D:\Lucas\source\repos\ClaimMCTeam\ClaimMCTeam\obj\Debug\ClaimMCTeam.Dashboard.dashboard_design.resources
+D:\Lucas\source\repos\ClaimMCTeam\ClaimMCTeam\obj\Debug\ClaimMCTeam.Teamlauncher.resources
+D:\Lucas\source\repos\ClaimMCTeam\ClaimMCTeam\obj\Debug\ClaimMCTeam.Properties.Resources.resources
+D:\Lucas\source\repos\ClaimMCTeam\ClaimMCTeam\obj\Debug\ClaimMCTeam.csproj.GenerateResource.cache
+D:\Lucas\source\repos\ClaimMCTeam\ClaimMCTeam\obj\Debug\ClaimMCTeam.csproj.CoreCompileInputs.cache
+D:\Lucas\source\repos\ClaimMCTeam\ClaimMCTeam\obj\Debug\ClaimMCTeam.exe
+D:\Lucas\source\repos\ClaimMCTeam\ClaimMCTeam\obj\Debug\ClaimMCTeam.pdb
+D:\Lucas\source\repos\ClaimMCTeam\ClaimMCTeam\obj\Debug\ClaimMCTeam.Team.Teamcloud.resources
