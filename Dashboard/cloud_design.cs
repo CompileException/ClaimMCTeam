@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace ClaimMCTeam.Team
 {
-    public partial class Teamcloud : Form
+    public partial class cloud_design : Form
     {
-        public Teamcloud()
+        public cloud_design()
         {
             InitializeComponent();
-
-
-            DateTime date1 = DateTime.Now;
-            datumstring.Text = date1.ToString();
-
         }
     }
 }

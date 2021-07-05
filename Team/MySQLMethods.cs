@@ -24,17 +24,15 @@ namespace ClaimMCTeam.Team
         public String Group { get; private set; }
         public String Username { get; private set; }
         public String Password { get; private set; }
-        public String Spedition { get; private set; }
         public String Registerdate { get; private set; }
-        public String money { get; private set; }
+        public String Money { get; private set; }
 
-        private MySQLMethods(String g, String u, String p, String s, String m, String rd)
+        private MySQLMethods(String group, String username, String password, String money, String rd)
         {
-            Group = g;
-            Username = u;
-            Password = p;
-            Spedition = s;
-            money = m;
+            Group = group;
+            Username = username;
+            Password = password;
+            Money = money;
             Registerdate = rd;
         }
 

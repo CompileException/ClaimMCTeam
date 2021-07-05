@@ -48,7 +48,7 @@ namespace ClaimMCTeam.Team
             this.button1.Font = new System.Drawing.Font("Nirmala UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
             this.button1.Image = global::ClaimMCTeam.Properties.Resources.Conact1;
-            this.button1.Location = new System.Drawing.Point(54, 72);
+            this.button1.Location = new System.Drawing.Point(149, 72);
             this.button1.Name = "button1";
             this.button1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.button1.Size = new System.Drawing.Size(220, 54);
@@ -65,7 +65,7 @@ namespace ClaimMCTeam.Team
             this.dashboard.Font = new System.Drawing.Font("Nirmala UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dashboard.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
             this.dashboard.Image = global::ClaimMCTeam.Properties.Resources.settings;
-            this.dashboard.Location = new System.Drawing.Point(54, 12);
+            this.dashboard.Location = new System.Drawing.Point(149, 12);
             this.dashboard.Name = "dashboard";
             this.dashboard.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.dashboard.Size = new System.Drawing.Size(220, 54);
@@ -73,6 +73,7 @@ namespace ClaimMCTeam.Team
             this.dashboard.Text = "Cloud";
             this.dashboard.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
             this.dashboard.UseVisualStyleBackColor = true;
+            this.dashboard.Click += new System.EventHandler(this.dashboard_Click);
             // 
             // button2
             // 
@@ -82,7 +83,7 @@ namespace ClaimMCTeam.Team
             this.button2.Font = new System.Drawing.Font("Nirmala UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
             this.button2.Image = global::ClaimMCTeam.Properties.Resources.Conact;
-            this.button2.Location = new System.Drawing.Point(54, 252);
+            this.button2.Location = new System.Drawing.Point(149, 252);
             this.button2.Name = "button2";
             this.button2.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.button2.Size = new System.Drawing.Size(220, 54);
@@ -99,7 +100,7 @@ namespace ClaimMCTeam.Team
             this.button3.Font = new System.Drawing.Font("Nirmala UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
             this.button3.Image = global::ClaimMCTeam.Properties.Resources.Conact;
-            this.button3.Location = new System.Drawing.Point(54, 192);
+            this.button3.Location = new System.Drawing.Point(149, 192);
             this.button3.Name = "button3";
             this.button3.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.button3.Size = new System.Drawing.Size(220, 54);
@@ -116,7 +117,7 @@ namespace ClaimMCTeam.Team
             this.button4.Font = new System.Drawing.Font("Nirmala UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
             this.button4.Image = global::ClaimMCTeam.Properties.Resources.Conact;
-            this.button4.Location = new System.Drawing.Point(38, 132);
+            this.button4.Location = new System.Drawing.Point(134, 132);
             this.button4.Name = "button4";
             this.button4.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.button4.Size = new System.Drawing.Size(262, 54);

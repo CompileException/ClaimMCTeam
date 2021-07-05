@@ -76,5 +76,10 @@ namespace ClaimMCTeam
             this.dashboardloader.Controls.Add(teamCloud);
             teamCloud.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
